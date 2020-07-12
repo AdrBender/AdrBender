@@ -1,4 +1,4 @@
-# Adriano Oliveira :man_tecnologies:
+# Adriano Oliveira
 
 <!--
 **AdrBender/AdrBender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
