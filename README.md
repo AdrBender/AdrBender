@@ -8,7 +8,7 @@
 -->
 ### Olá 👋
 
-- ::
+- :blue_heart: Amo programar.
 - 🔭 Sou desenvolvedor Android.
 - 🌱 Atualmente estou aprendendo Dart.
 <!--
