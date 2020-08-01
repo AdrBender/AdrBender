@@ -14,6 +14,8 @@
 - :blue_heart: Amo programar.
 - 🔭 Sou desenvolvedor Android.
 - 🌱 Atualmente estou aprendendo Dart.
+
+[![HitCount](http://hits.dwyl.com/AdrBender/https://githubcom/AdrBender/AdrBender.svg)](http://hits.dwyl.com/AdrBender/https://githubcom/AdrBender/AdrBender)
 <!--
 - 👯 I’m looking to collaborate on ...https://www.facebook.com/profile.php?id=100002648778747
 - 🤔 I’m looking for help with ...
