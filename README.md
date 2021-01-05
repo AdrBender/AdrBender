@@ -7,23 +7,25 @@
 <!--
 **AdrBender/AdrBender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hello World! 👋
+### 👋 Olá Terráqueos! 👽
 
 ---
 
 - :blue_heart: Amo programar.
 - :computer: Sou desenvolvedor Android.
 - 🔭 Atualmente estou aprendendo Dart e Vaadin.
-- 👽 Sou curioso e os segredos do cosmos me intrigam.
 
 ---
 ```Dart
 void main() {
-	var lst = new List(3);
-	lst[0] = 'Amo ler';
-	lst[1] = 'Meus hobbies são programar e assistir um bom filme'; 
-   	lst[2] = 'Sou fascinado por este universo e todos os seus mistérios'; 
-   	lst[3] = 'Estou em constante mudança e aprendizado';
+	var lst = new List(7);
+	lst[0] = 'Amo ler.';
+	lst[1] = 'Meus hobbies são programar e assistir a um bom filme.'; 
+   	lst[2] = 'Sou fascinado por este universo e todos os seus mistérios.'; 
+   	lst[3] = 'Estou em constante mudança e aprendizado.';
+	lst[4] = 'Respiro e sonho às vezes com códigos.';
+	lst[5] = 'Esta é a sexta versão da Matrix.';
+	lst[6] = 'Madrugada é o melhor momento para programar.'
    	print(lst); 
 }
 ```
