@@ -12,11 +12,23 @@
 ---
 
 - :blue_heart: Amo programar.
-- :robot: Sou desenvolvedor Android.
+- :computer: Sou desenvolvedor Android.
 - 🔭 Atualmente estou aprendendo Dart e Vaadin.
-- 👽 Sou curioso e os mistérios desse universo me intriga.
+- 👽 Sou curioso e os segredos do cosmos me intrigam.
 
-## **Linguagens e ferramentas:** 
+---
+```Dart
+void main() {
+	var lst = new List(3);
+	lst[0] = 'Amo ler';
+	lst[1] = 'Meus hobbies são programar e assistir um bom filme'; 
+   	lst[2] = 'Sou fascinado por este universo e todos os seus mistérios'; 
+   	lst[3] = 'Estou em constante mudança e aprendizado';
+   	print(lst); 
+}
+```
+
+## **Tecnologias, linguagens e ferramentas:** 
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -30,7 +42,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<p align="center">
+<p align="left">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/adrbender/adrbender.svg" />
 </p>
 <!--
