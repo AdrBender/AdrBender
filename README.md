@@ -14,6 +14,7 @@
 - :blue_heart: Amo programar.
 - :computer: Sou desenvolvedor Android.
 - 🔭 Atualmente estou aprendendo Dart e Vaadin.
+- :boom: Meu Octoprofile : [AdrBender](https://octoprofile.now.sh/user?id=AdrBender)
 
 ---
 ```Dart
@@ -44,9 +45,14 @@ void main() {
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
+---
 <p align="left">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/adrbender/adrbender.svg" />
 </p>
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrBender)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <!--
 - 👯 I’m looking to collaborate on ...https://www.facebook.com/profile.php?id=100002648778747
 - 🤔 I’m looking for help with ...
