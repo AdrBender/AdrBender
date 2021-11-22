@@ -14,7 +14,7 @@
 - :blue_heart: Amo programar.
 - :computer: Sou desenvolvedor Android.
 - 🔭 Atualmente estou aprendendo Dart e Vaadin.
-- :boom: Meu Octoprofile : [AdrBender](https://octoprofile.now.sh/user?id=AdrBender)
+- ⚡ Meu Octoprofile : [AdrBender](https://octoprofile.now.sh/user?id=AdrBender)
 
 ---
 ```Dart
