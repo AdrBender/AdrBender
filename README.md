@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano-oliveira-3b6260104/)](https://www.linkedin.com/in/adriano-oliveira-3b6260104/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriano.lhc@gmail.com)](mailto:adriano.lhc@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100002648778747)](https://www.facebook.com/profile.php?id=100002648778747)
-
+[![Reddit Badge](https://img.shields.io/badge/-Reddit-orange?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/Adriano_Oliveira/)](https://www.reddit.com/user/Adriano_Oliveira/)
 <!--
 **AdrBender/AdrBender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
